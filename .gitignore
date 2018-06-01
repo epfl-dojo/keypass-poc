@@ -1,3 +1,7 @@
+password-poc/.couchappignore
+password-poc/.couchapprc
+
+
 tmp/
 dist/
 keys.txt
