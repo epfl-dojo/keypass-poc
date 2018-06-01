@@ -15,7 +15,7 @@ The couchdb server address as well as the name of the databases is currently har
 
 ## References
  - [JS Encrypt](https://github.com/travist/jsencrypt) the JS library used for encrypting the documents;
- - [Pauchdb](https://pouchdb.com) the JS library used for the backend storage;
+ - [Pouchdb](https://pouchdb.com) the JS library used for the backend storage;
  - [Couchdb](http://couchdb.apache.org) the backend storage;
  - [JQuery](https://jquery.com);
  - [Bootstrap](https://getbootstrap.com).
